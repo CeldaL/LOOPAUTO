@@ -5,7 +5,7 @@ local player = game.Players.LocalPlayer
 local dropdown = {}
 
 -- Definir el jugador objetivo fijo
-_G.tplayer = "sigjby"
+_G.tplayer = "Maxito202233"
 
 -- Auto Loop al jugador
 getgenv().loopgoto = true
